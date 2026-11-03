@@ -179,5 +179,3 @@ But one thing became part of underground folklore:
 ```
 
 **Research Classified. Identity Undefined. Legacy Eternal.**
-
-*This README presents a fictional underground research organization and its mythology.*
